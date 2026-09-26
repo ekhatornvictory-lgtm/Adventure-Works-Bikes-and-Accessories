@@ -55,7 +55,7 @@ Tools & Techniques
 * What-if parameter — live price elasticity slider on the Product Detail page
 * Time intelligence — rolling trend lines with linear forecast overlays
 
-[Dashboard]([Screenshot 2026-09-26 125350.png](https://github.com/ekhatornvictory-lgtm/Adventure-Works-Bikes-and-Accessories/blob/67dbf2499146d86bd7f6a5c41a073f76dc10fb6f/Screenshot%202026-09-26%20125350.png))
+[▶️ Watch my Power BI Dashboard Demo](videos/dashboard-demo.mp4)
 
 <p align="Left">
   <img src="https://github.com/ekhatornvictory-lgtm/Adventure-Works-Bikes-and-Accessories/blob/67dbf2499146d86bd7f6a5c41a073f76dc10fb6f/Screenshot%202026-09-26%20125350.png" width="180" alt="Victory Ekhator">
@@ -65,7 +65,6 @@ Tools & Techniques
 </p> <p align="left">
   <img src="Screenshot 2026-09-26 130106.png" width="180" alt="Victory Ekhator">
 </p>
-
 
 ## Recommendations
 * Investigate the Sport-100 Helmet (Red) and the "Shorts" category for sizing, fit, or quality-control issues driving above-average returns.
