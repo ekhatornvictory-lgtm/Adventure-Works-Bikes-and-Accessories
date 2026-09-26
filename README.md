@@ -3,7 +3,7 @@ An end-to-end Power BI dashboard built for Adventure Works, a bike/accessories r
 
 📊 4 interactive pages · 🔎 25.2K orders analyzed · 👥 17.4K unique customers · 💰 $24.9M in tracked revenue
 
-📁 Table of Contents
+##📁 Table of Contents
 1. Overview
 2. Dashboard Pages
 3. Key Insights
@@ -17,13 +17,13 @@ Who are our customers, and is our revenue-per-customer trend healthy?
 
 The model uses a rolling date filter, drill-through navigation from the executive summary into product and customer detail, and a live price-adjustment slider that recalculates profit in real time.
 
-* Dashboard page and Page	Purpose
+## Dashboard page and Page	Purpose
 1. Exec Dashboard	|| Company-wide KPIs, revenue trend, category mix, top 10 products, month-over-month deltas
 2. Product Detail	|| Drill-through view per product with actual-vs-target gauges and a price-adjustment simulator
 3. Customer Detail	|| Customer segmentation by income/occupation, top 100 customers, revenue-per-customer trend
 4. Map || Supporting geographic
 
-Key Insights
+## Key Insights
 1. Growth is real, but decelerating
 
 Revenue grew from roughly $0.4M/month in early 2020 to $1.83M in the latest month (+3.31% MoM), well above the long-run trendline. However, order volume actually fell slightly month-over-month (-0.88%, 2,146 vs. 2,165), meaning recent revenue growth is coming more from spend-per-order than from new order volume — worth watching if it continues.
@@ -48,7 +48,7 @@ Unique customers have grown to 17.4K, but Revenue per Customer has fallen from ~
 
 The Top 100 customers generated $615,329 in revenue (avg. ~$6,153/customer, vs. the $1,431 company average) — a small group driving outsized value. Order counts across the top 100 are modest (mostly 4–7 orders each), meaning this is a high-average-order-value group, not a high-frequency group. By income band, "Average" and "Low" income customers together account for the large majority of orders (10,266 + 11,600 vs. 2,827 "High"), and by occupation, Professional customers lead order volume (7,925), with the report flagging Ruben Suarez as the top revenue driver among Skilled Manual customers in 2022 ($4,683) — a useful example of value existing outside the "expected" high-income segment.
 
-Tools & Techniques
+## Tools & Techniques
 * Power BI Desktop — data modeling, DAX measures, report design
 * DAX — MoM % change measures, target-vs-actual gauges, dynamic price-adjustment simulation (parameter-driven "what-if" measure)
 * Drill-through & bookmarks — Exec Dashboard → Product Detail / Customer Detail
