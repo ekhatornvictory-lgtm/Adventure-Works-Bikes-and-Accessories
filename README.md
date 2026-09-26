@@ -55,7 +55,8 @@ Tools & Techniques
 * What-if parameter — live price elasticity slider on the Product Detail page
 * Time intelligence — rolling trend lines with linear forecast overlays
 
-[▶️ Watch my Power BI Dashboard Demo](videos/videopj.mp4)
+[▶️ Watch my Power BI Dashboard Demo]([videos/videopj.mp4](https://github.com/ekhatornvictory-lgtm/Adventure-Works-Bikes-and-Accessories/blob/e11450bf1a1f2bddb290c2df95616d1507af17ca/video%20PJ.mp4))
+
 
 <p align="Left">
   <img src="https://github.com/ekhatornvictory-lgtm/Adventure-Works-Bikes-and-Accessories/blob/67dbf2499146d86bd7f6a5c41a073f76dc10fb6f/Screenshot%202026-09-26%20125350.png" width="180" alt="Victory Ekhator">
