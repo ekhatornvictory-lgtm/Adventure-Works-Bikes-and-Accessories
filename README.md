@@ -57,10 +57,17 @@ Tools & Techniques
 
 [Dashboard]([Screenshot 2026-09-26 125350.png](https://github.com/ekhatornvictory-lgtm/Adventure-Works-Bikes-and-Accessories/blob/67dbf2499146d86bd7f6a5c41a073f76dc10fb6f/Screenshot%202026-09-26%20125350.png))
 
-<p align="center">
+<p align="Left">
   <img src="https://github.com/ekhatornvictory-lgtm/Adventure-Works-Bikes-and-Accessories/blob/67dbf2499146d86bd7f6a5c41a073f76dc10fb6f/Screenshot%202026-09-26%20125350.png" width="180" alt="Victory Ekhator">
+</p> <p align="left">
+  <img src="Screenshot 2026-09-26 130013.png" width="180" alt="Victory Ekhator">
 </p>
-Recommendations
+</p> <p align="left">
+  <img src="Screenshot 2026-09-26 130106.png" width="180" alt="Victory Ekhator">
+</p>
+
+
+## Recommendations
 * Investigate the Sport-100 Helmet (Red) and the "Shorts" category for sizing, fit, or quality-control issues driving above-average returns.
 * Run a controlled price test on the Water Bottle – 30 oz. given the simulator shows profit upside with no apparent volume penalty at +20%.
 * Prioritize a revenue-per-customer root-cause analysis (cohort/RFM) — this multi-year decline is the biggest structural risk visible in the data.
