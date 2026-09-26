@@ -56,8 +56,6 @@ Tools & Techniques
 * Time intelligence — rolling trend lines with linear forecast overlays
 
 
-
-
 Recommendations
 * Investigate the Sport-100 Helmet (Red) and the "Shorts" category for sizing, fit, or quality-control issues driving above-average returns.
 * Run a controlled price test on the Water Bottle – 30 oz. given the simulator shows profit upside with no apparent volume penalty at +20%.
