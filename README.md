@@ -55,7 +55,6 @@ The Top 100 customers generated $615,329 in revenue (avg. ~$6,153/customer, vs. 
 * What-if parameter — live price elasticity slider on the Product Detail page
 * Time intelligence — rolling trend lines with linear forecast overlays
 
-[▶️ Watch my Power BI Dashboard Demo]([videos/videopj.mp4](https://github.com/ekhatornvictory-lgtm/Adventure-Works-Bikes-and-Accessories/blob/e11450bf1a1f2bddb290c2df95616d1507af17ca/video%20PJ.mp4))
 
 
 <p align="Left">
